@@ -1,16 +1,18 @@
-## Hi there 👋
+# Salut, je suis Jean Baptiste Kendy 👋
 
-<!--
-**Jean-Baptiste-Kendy/Jean-Baptiste-Kendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diplômé en Génie Civil — avec une double compétence en développement logiciel et en science des données.
 
-Here are some ideas to get you started:
+🎓 Certifié en Science des Données et en Mathématiques pour l'IA
+☁️ Grande expérience des outils Google Cloud, notamment **Gemini Enterprise (Agent Platform)**
+📘 En préparation : certification **Google Cloud Professional Machine Learning Engineer**
+📍 Basé à Port-au-Prince, Haïti
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences techniques
+- **Cloud & IA** : Google Cloud Platform, Gemini Enterprise (Agent Platform)
+- **Langages** : Python, Java, JavaScript, Kotlin
+- **Web** : Dash, Plotly, TypeScript
+- **Bases de données** : MySQL, SQL
+
+## 📫 Me contacter
+- LinkedIn : *...*
+- Email : jeanbaptistekendy7@gmail.com
